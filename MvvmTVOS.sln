@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmTVOS.AppleTV", "MvvmTVOS.AppleTV\MvvmTVOS.AppleTV.csproj", "{826FF973-D285-4BA3-A4E0-8161D0CB606C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmTVOS.Core", "MvvmTVOS.Core\MvvmTVOS.Core.csproj", "{0B740104-37B2-431A-B30C-36CC2FBC2255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Release|iPhone.Build.0 = Release|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0B740104-37B2-431A-B30C-36CC2FBC2255}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Release|iPhone.Build.0 = Release|iPhone
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{826FF973-D285-4BA3-A4E0-8161D0CB606C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Release|iPhone.Build.0 = Release|iPhone
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C4563967-9536-4373-8874-BFD72A8979AD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal
